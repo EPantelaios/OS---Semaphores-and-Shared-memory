@@ -1,1 +1,1 @@
-# OS---Semaphores-and-Shared-memory
+# Operating-System-Semaphores-and-Shared-memory
